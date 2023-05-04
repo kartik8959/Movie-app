@@ -1,0 +1,465 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemptionx",
+      "director": "Frank Darabont",
+      "year": "1998",
+      "genre": [
+        "Drama"
+      ],
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman"
+      ],
+      "description": "Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in prison for the murders of his wife and her lover and is sentenced to a tough prison. However, only Andy knows he didn't commit the crimes. While there, he forms a friendship with Red (Morgan Freeman), experiences brutality of prison life, adapts, helps the warden, etc., all in 19 years.",
+      "rating": "9.9",
+      "releaseDate": "18 July 2008",
+      "poster_url": "https://cdn.shopify.com/s/files/1/1416/8662/products/shawshank_redemption_1994_netherlands_original_film_art_f_1200x.jpg?v=1572559870",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "year": 1972,
+      "genre": [
+        "Crime"
+      ],
+      "releaseDate": "18 Oct 2008",
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino"
+      ],
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "rating": 9.2,
+      "poster_url": "https://nerdist.com/wp-content/uploads/2015/02/Coppola-TDC.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "year": 2008,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckharts"
+      ],
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "rating": "10",
+      "releaseDate": "1 Aug 2010",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+      "id": 3
+    },
+    {
+      "title": "The Simpsons Movie",
+      "director": "Christopher Nolan",
+      "year": "2011",
+      "genre": [
+        "Comedy",
+        "Adventures",
+        "Animation"
+      ],
+      "actors": [
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "yeardley Smith"
+      ],
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "rating": 9.1,
+      "releaseDate": "10 Dec 2018",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "Scary Movie",
+      "year": "2000",
+      "director": "Christopher Nolan",
+      "Type": "movie",
+      "genre": [
+        "Horror",
+        "Comedy",
+        "Teen"
+      ],
+      "releaseDate": "10 July 2018",
+      "actors": [
+        "Jon Abrahams",
+        "Bobby Prinze",
+        "Marlon Wayans"
+      ],
+      "rating": 8.3,
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+      "id": 6,
+      "title": "El Camino: A Breaking Bad Movie",
+      "year": "2019",
+      "director": "Christopher tomla",
+      "Type": "movie",
+      "genre": [
+        "Crime",
+        "Western",
+        "Drama"
+      ],
+      "actors": [
+        "Aaron Paul",
+        "Jesse Plemons",
+        "Krysten Ritter"
+      ],
+      "releaseDate": "10 Nov 2008",
+      "rating": 7.3,
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_SX300.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Bee Movie",
+      "year": "2007",
+      "director": "kartik Nolan",
+      "Type": "movie",
+      "genre": [
+        "Comedy",
+        "Children's",
+        "Animation"
+      ],
+      "actors": [
+        "Jerry Seinfeld",
+        "Barry B. Benson",
+        "Renée Zellweger"
+      ],
+      "rating": 9.7,
+      "releaseDate": "18 Dec 220",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjE1MDYxOTA4MF5BMl5BanBnXkFtZTcwMDE0MDUzMw@@._V1_SX300.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Scary Movie 2",
+      "description": "As the supernatural extension of the first film, \"Scary Movie 2\" casts its satirical eye on such iconic classics as \"The Exorcist\" and \"Poltergeist,\" as well as the more recent films \"Hannibal,\" \"What Lies Beneath\" and \"The House on Haunted Hill.\" In addition to all things supernatural, it lunges even further, taking on pulp icons including \"Charlie's Angels\" and \"Mission Impossible 2.\"",
+      "year": "2001",
+      "director": "tejas chavda",
+      "Type": "movie",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMzQxYjU1OTUtYjRiOC00NDg2LWI4MWUtZGU5YzdkYTcwNTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "genre": [
+        "Horror",
+        "Comedy",
+        "Teen"
+      ],
+      "actors": [
+        "Jon Abrahams",
+        "Bobby Prinze",
+        "Marlon Wayans"
+      ],
+      "rating": 6.3,
+      "releaseDate": "30 July 1995"
+    },
+    {
+      "id": 9,
+      "title": "The Lego Batman Movie",
+      "description": "There are big changes brewing in Gotham, but if Batman (Will Arnett) wants to save the city from the Joker's (Zach Galifianakis) hostile takeover, he may have to drop the lone vigilante thing, try to work with others and maybe, just maybe, learn to lighten up. Maybe his superhero sidekick Robin (Michael Cera) and loyal butler Alfred (Ralph Fiennes) can show him a thing or two.",
+      "year": "2017",
+      "director": "pooja hegde",
+      "Type": "movie",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+      "genre": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "actors": [
+        "Will Arnett",
+        "Michael Cera",
+        "Rosario Dawson"
+      ],
+      "rating": 8.5,
+      "releaseDate": "18 jan 2010"
+    },
+    {
+      "title": "Not Another Teen Movie",
+      "director": "Christopher ot\": \"A paroNolan",
+      "year": "2001",
+      "genre": [
+        "Teen",
+        "Comedy"
+      ],
+      "actors": [
+        "Chyler Leigh",
+        "Jaime Pressly",
+        "Eric Jungmanns"
+      ],
+      "description": "pldy of movies marketed to teens, NOT ANOTHER TEEN MOVIE depicts what happens when popular jock Jake Wyler (Chris Evans) bets his friends that he can turn any girl into the prom queen merely by associating with him -- even nerdy artist Janey Briggs",
+      "rating": "7.5",
+      "releaseDate": "11 March 2008",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNWFkYmJiZjQtYWMzZC00OGIyLThkZjktY2JlNGI4MGU0NjY5XkEyXkFqcGdeQXVyNDUzNzgxODE@._V1_SX300.jpg",
+      "id": 10
+    },
+    {
+      "title": "The Sky is Pink",
+      "director": "Siddharth Roy Kapoor",
+      "year": 2019,
+      "genre": [
+        "biographical romantic comedy-drama"
+      ],
+      "actors": [
+        "Priyanka Chopra",
+        "Farhan Akhtar"
+      ],
+      "description": "Aisha Chaudhary narrated the story of her parents Moose (her mother) and Panda (her father) from the afterlife. \n\ngood good",
+      "rating": 7,
+      "releaseDate": "11 October 2019",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Sky_Is_Pink.jpg",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "title": "Unstoppable ",
+      "director": "Tony Scott",
+      "year": 2010,
+      "genre": [
+        "disaster action thriller film"
+      ],
+      "actors": [
+        "Denzel Washington",
+        "Chris Pine"
+      ],
+      "description": "While two yard hostlers are moving a mixed-freight Allegheny and West Virginia Railroad (AWVR) train at Fuller Yard in northern Pennsylvania, Dewey, the engineer, realizes that a trailing-point switch ahead is not correctly aligned and leaves the cab of lead locomotive 777 to change it, setting the throttle to idle. However, it pops into full power before he can get back on, leaving the train unattended going south at full speed down the mainline.",
+      "rating": 8,
+      "releaseDate": "26 October 2010",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Unstoppable_Poster.jpg/220px-Unstoppable_Poster.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Interstellar ",
+      "director": "Christopher Nolan",
+      "year": 2009,
+      "genre": [
+        "Science fiction film"
+      ],
+      "actors": [
+        "Michael caine",
+        "Bill Irwin"
+      ],
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "rating": 8.6,
+      "releaseDate": "23 July 2009",
+      "poster_url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Glory Road",
+      "director": "James Gartner",
+      "year": 1996,
+      "genre": [
+        "Biography"
+      ],
+      "actors": [
+        "Josh Lucas",
+        "Austin Nichols"
+      ],
+      "description": "Texas Western coach Don Haskins led the first all-black starting line-up for a college basketball team to the NCAA national championship.",
+      "rating": 7.2,
+      "releaseDate": "23 November 1966",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA2MDY4OTE1N15BMl5BanBnXkFtZTcwOTI5OTMzMQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Lakeview Terrace",
+      "director": "Neil Labute",
+      "year": 2001,
+      "genre": [
+        "Crime"
+      ],
+      "actors": [
+        "Samuel Jackson",
+        "Kerry Washington"
+      ],
+      "description": "A troubled and racist African-American L.A.P.D. Officer will stop at nothing to force out a friendly interracial couple who just moved in next door to him.",
+      "rating": 6.2,
+      "releaseDate": "21 May 2001",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI0MzI0NDI4Ml5BMl5BanBnXkFtZTcwOTk4ODk3MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Law Abiding Citizen",
+      "director": "F. Gary Gray",
+      "year": 2008,
+      "genre": [
+        "Action"
+      ],
+      "actors": [
+        "Leslie Bibb",
+        "Colm Meaney"
+      ],
+      "description": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free.",
+      "rating": 7.4,
+      "releaseDate": "20 March 2008",
+      "poster_url": "https://static.greatbigcanvas.com/images/singlecanvas_thick_none/movie-goods/law-abiding-citizen-movie-poster,1159661.jpg",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "title": "Gladiator",
+      "director": "Ridly Scott",
+      "year": 2004,
+      "genre": [
+        "Adventure"
+      ],
+      "actors": [
+        "Russell Crowe",
+        "Oliver Reed"
+      ],
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "rating": 8.5,
+      "releaseDate": "9 July 2004",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "A Few Good Men",
+      "director": "Rob Reiner",
+      "year": 2000,
+      "genre": [
+        "Thriller"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Kevin Bacon"
+      ],
+      "description": "Military lawyer Lieutenant Daniel Kaffee defends Marines accused of murder. They contend they were acting under orders.",
+      "rating": 7.7,
+      "releaseDate": "20 January 2000",
+      "poster_url": "https://cdn.shopify.com/s/files/1/0969/9128/products/AFewGoodMen-JackNicholsonTomCruise-HollywoodEnglishMoviePoster_f7190209-9ea8-4e97-a570-4b1e7848bf82.jpg?v=1600761832",
+      "id": 18
+    },
+    {
+      "title": "Blood diamond",
+      "director": "Edward Zwick",
+      "year": 1967,
+      "genre": [
+        "Adventure"
+      ],
+      "actors": [
+        "Leonaedo DiCarprio",
+        "Jennifer Conneily"
+      ],
+      "description": "A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.",
+      "rating": 8,
+      "releaseDate": "20 April 1967",
+      "poster_url": "https://www.themoviedb.org/t/p/w220_and_h330_face/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg",
+      "poster_urls": "https://m.media-amazon.com/images/M/MV5BZDMxOGZhNWYtMzRlYy00Mzk5LWJjMjEtNmQ4NDU4M2QxM2UzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY209_CR0,0,140,209_AL_.jp",
+      "id": 19
+    },
+    {
+      "title": "Brothers",
+      "director": "Jim Shridam",
+      "year": 2006,
+      "genre": [
+        "War"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Sam Shepard"
+      ],
+      "description": "While on tour in Afghanistan, Sam's copter is shot down and he is presumed dead. Back home, it is his screw-up brother who looks after the family. Sam does return, but with a lot of excess baggage.",
+      "rating": 7.1,
+      "releaseDate": "7 April 2006",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BYjQ3ODM2MjgtNTcyNi00MmFjLTlhOWYtYjk2MmQ3NjFkMWJkXkEyXkFqcGdeQXVyMTI1Mzg0ODA5._V1_.jpg",
+      "id": 20
+    },
+    {
+      "id": 21,
+      "title": "50/50",
+      "director": "Jonathan Levis",
+      "year": 2011,
+      "genre": [
+        "Comedy"
+      ],
+      "actors": [
+        "Joseph Gorden",
+        "Anna Kendrick"
+      ],
+      "description": "Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.",
+      "rating": 7.6,
+      "releaseDate": "4 September 2011",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BNjg3ODQyNTIyN15BMl5BanBnXkFtZTcwMjUzNzM5NQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Boogie Nights",
+      "director": "Paul Thomas Anderson",
+      "year": 1997,
+      "genre": [
+        "Drama"
+      ],
+      "actors": [
+        "Mark Wahlberg",
+        "Burt Reynolds"
+      ],
+      "description": "Back when sex was safe, pleasure was a business and business was booming, an idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent",
+      "rating": 7.9,
+      "releaseDate": "3 February 1997",
+      "poster_url": "https://c8.alamy.com/comp/BKABAK/boogie-nights-1997-poster-BKABAK.jpg",
+      "id": 22
+    },
+    {
+      "id": 23,
+      "title": "Inception",
+      "director": "Chrisopher Nolan",
+      "year": 2010,
+      "genre": [
+        "Action"
+      ],
+      "actors": [
+        "Elloiot Page",
+        "Ken Watanabe"
+      ],
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+      "rating": 8.8,
+      "releaseDate": "3 september 2010",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+    },
+    {
+      "title": "Black Swan",
+      "director": "Darren aronofsky",
+      "year": 2010,
+      "genre": [
+        "Thriller"
+      ],
+      "actors": [
+        "Winona Ryder",
+        "Vincent Cassel"
+      ],
+      "description": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake\".",
+      "rating": 8,
+      "releaseDate": "4 April 2010",
+      "poster_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78d92c45-e7d3-4e39-943e-6a11a8c60778/d4voq2v-3c1df84b-f0ad-4f4d-9b1a-b50ca0e7db84.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4ZDkyYzQ1LWU3ZDMtNGUzOS05NDNlLTZhMTFhOGM2MDc3OFwvZDR2b3Eydi0zYzFkZjg0Yi1mMGFkLTRmNGQtOWIxYS1iNTBjYTBlN2RiODQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a2NmoFtV-7vA90hu9k0B75T8FctTYpXy4N3Dmo8Gv18",
+      "id": 24
+    },
+    {
+      "title": "Saving Private Ryan",
+      "director": "Steven Spielberg",
+      "year": "1999",
+      "genre": [
+        "War"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Tom Sizemore"
+      ],
+      "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "rating": 8.6,
+      "releaseDate": "5 April 1998",
+      "poster_url": "https://cdn.shopify.com/s/files/1/0969/9128/products/Saving_Private_Ryan_-_Tom_Hanks_-_Tallenge_Fan_Art_Hollywood_Movie_Poster_Collection_3caa051a-acd4-4393-a425-f967f9e9178c.jpg?v=1557383099",
+      "id": 25
+    }
+  ],
+  "genre": [
+    "Action",
+    "Crime",
+    "Comedy",
+    "Drama",
+    "Biography"
+  ]
+}
